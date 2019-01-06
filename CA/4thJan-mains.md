@@ -59,7 +59,12 @@
 ########################################################################################################################################################################################
 
 
-3. Bharatmala project(BMP)
+3. Bharatmala project(BMP)	
+
+	**Intro**
+		- In 1998, NDA Govt launched NHDP(National Highway Development Program). Managed by NHAI(National Highway Authority of India)  
+		- NHAI plans to raise 10,000 crore through bharatmala bonds for largest highway project since NHDP.
+		- 
 	
 
 ########################################################################################################################################################################################
@@ -91,6 +96,59 @@
 
 ########################################################################################################################################################################################
 
-9. 
+9. Shayara Bano's case
 
+
+########################################################################################################################################################################################
+
+10. Navtej Johar vs Union of india
+
+
+########################################################################################################################################################################################
+
+11. Joseph Shine vs Union of india
+
+
+########################################################################################################################################################################################
+
+12. Lead and MSG in noodles
+	
+	**Intro**
+		- NCDRC(National Consumer Disputes Redressal Committee)
+		- Quasi-Judicial
+		- Established in 1988 under CoPrA act, 1986
+		- Addresses grievances of customers for goods and services of valuation over 1 crore.
+		- Headqurtered at Delhi
+		- Headed by sitting or retired Supreme court judge
+		- NCDRC is going against the Swiss Giant, Nestle company for the lead and MSG content in maggi as filed in a PIL
+		
+	**Lead effects**
+		- Effects infants and pregnant woman.
+		- Mostly kidney and liver . Also damages central nervous system.
+		- Heavy metal can store in teeth and bones over time
+	
+	**MSG effects**
+		- Monosodium glutamate
+		- Amino acid
+		- Flavour enhancer 
+		- Causses Chinese restaurant syndrome. Also headache,sweating, sickness etc..
+
+
+########################################################################################################################################################################################
+
+13. Angel tax
+	
+	**What is angel tax**
+		- Tax levied on funds received by external start up start ups above their fair market value
+		- Taxed because it is counted as income for the startup
+	**Why**
+		- To fight money laundering
+		- Bribes and commissions could be disguised as angel investments to escape taxes
+		
+	**Problem with it**
+		- No definitive way to measure the fair market value and the officials measure the net value and it leads to inconveniece for the start ups
+		- On May 24, 2018 CBDT(Central board of direct taxes) has exempted angel investors under some reasons as specified by Department of Industrial Policy and Promotion(DIPP)
+
+
+########################################################################################################################################################################################
 			

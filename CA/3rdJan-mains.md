@@ -14,6 +14,27 @@
 ########################################################################################################################################################################################
 5. Western ghat are effected by exotic plants.Comment.
 
+	**Notes**
+		- Gadgil and Kasturirangan committee report
+		- Over 56,000 km2 of ESA (ecologically sensitive areas) in western ghats could not be marked as 'no-go' zones due to governement's insentivity
+		
+	**Gadgil Committee**
+		- Boundaries of Western ghats need to be drawn for the purpose of eco -management
+		- Entire area to be defined as ESA	
+		- Also divide area in ESA I,II,III on their existing condition and threat
+		- To regulate activities suggested to form a Western ghat ecology authority
+	
+	**Result**
+		- 6 states dint approve and implement them
+		
+	**Kasturirangan Committee**
+		- Ban on mining, quarrying and sand mining
+		- No new thermal project, and but hydel projects with restrictions
+		- Ban on new polluting industries
+		- Buildings and construction works upto 20000 square meters were to be allowed
+		- No new townships
+		- Forest diversion could be allowed with extra safegurds
+		
 ########################################################################################################################################################################################
 
 6. Mergers of banks. Good or bad?
@@ -165,3 +186,6 @@
 	**Notes**
 		- Modify list of STs in Arunachal pradesh
 
+
+
+########################################################################################################################################################################################

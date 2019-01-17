@@ -47,7 +47,7 @@
 	**Notes**
 		- ISC association holds it every years on first week of january
 		- Started in 1914
-		- Simla accord signed in 1914
+		- Simla accord signed in 1972
 		- ISC 106th meet at Jalandhar, Punjab
 
 
